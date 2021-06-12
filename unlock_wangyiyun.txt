@@ -1,5 +1,5 @@
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag= 解锁网易云音乐
-http=128.1.41.162:4567, fast-open=false, udp-relay=false, tag= 解锁网易云音乐me
+http=muc.yangck.tk, fast-open=false, udp-relay=false, tag= 解锁网易云音乐me
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点1
 http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点2
 shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云节点3
